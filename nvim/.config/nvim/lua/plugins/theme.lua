@@ -1,0 +1,1 @@
+/home/jdpr9/.config/omarchy/current/theme/neovim.lua
