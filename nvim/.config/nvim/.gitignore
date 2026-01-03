@@ -3,3 +3,9 @@
 *.log
 .luarc.json
 .repro/
+tt.*
+.tests
+doc/tags
+debug
+foo.*
+data
