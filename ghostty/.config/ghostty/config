@@ -34,4 +34,4 @@ keybind = super+control+shift+alt+arrow_right=resize_split:right,100
 # keybind = control+shift+f=search
 
 # Slowdown mouse scrolling
-mouse-scroll-multiplier = 0.95
+# mouse-scroll-multiplier = 0.95
